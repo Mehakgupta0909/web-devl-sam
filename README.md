@@ -1,2 +1,2 @@
 # web-devl-sam
-This id a web development sample (html&amp;css)
+This is a web development sample (html&amp;css)
